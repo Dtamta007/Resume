@@ -50,10 +50,6 @@ h1,h2,h3,h4,h5,h6{
     transition: width 400ms ease-in-out;
 }
 
-#pro-pic:hover{
-    width: 350px;
-}
-
 #links{
     padding:5px;
 }
