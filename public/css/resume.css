@@ -42,6 +42,8 @@ h1,h2,h3,h4,h5,h6{
 #pro-pic{
     position: absolute;
     width: 250px; 
+    height: 250px;
+    object-fit: fill;
     border-radius: 200px; 
     left:50%;
     top: 50%;
@@ -376,6 +378,8 @@ h1,h2,h3,h4,h5,h6{
 
 .image img{
     width: 250px;
+    height: 250px;
+    object-fit: fill;
     border-radius: 200px;
     margin-right:1em;
 }
